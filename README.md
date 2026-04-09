@@ -1,6 +1,4 @@
-# Olist-Ecommerce-Analytics
-End-to-end analysis of 100k+ Brazilian E-commerce transactions to identify revenue drivers and logistics bottlenecks using Python, SQL, and Power BI.
-# 🛒 Olist E-commerce Sales & Logistics Analysis
+# Olist E-commerce Sales & Logistics Analysis
 An end-to-end data analytics project investigating 100,000+ orders from 2016-2018 to drive business growth and operational efficiency.
 
 
